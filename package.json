@@ -1,0 +1,7 @@
+{
+  "name": "api-wxmp-restos",
+  "private": true,
+  "dependencies": {
+    "excuses": "^1.0.0"
+  }
+}
